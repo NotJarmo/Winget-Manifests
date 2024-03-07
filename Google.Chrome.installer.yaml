@@ -1,0 +1,32 @@
+# Created with YamlCreate.ps1 v2.0.0 using YAML parsing
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
+
+PackageIdentifier: Google.Chrome
+PackageVersion: 122.0.6261.112
+Platform:
+- Windows.Desktop
+MinimumOSVersion: 10.0.0.0
+InstallModes:
+- interactive
+- silent
+- silentWithProgress
+Commands:
+- chrome
+Protocols:
+- http
+- https
+FileExtensions:
+- html
+- htm
+- url
+Installers:
+- InstallerLocale: en-US
+  Architecture: x64
+  InstallerType: msi
+  Scope: machine
+  InstallerUrl: https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
+  InstallerSha256: 23E21B36938AA79F0D03087338ADEA2DA7331F9B525ED8AD45E1A1C19935F424
+  UpgradeBehavior: install
+  ProductCode: '{40650AAF-23EE-37E3-9447-F90E3D0F9B1D}'
+ManifestType: installer
+ManifestVersion: 1.0.0
