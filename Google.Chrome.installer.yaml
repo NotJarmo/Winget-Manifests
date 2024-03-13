@@ -25,8 +25,8 @@ Installers:
   InstallerType: msi
   Scope: machine
   InstallerUrl: https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
-  InstallerSha256: 23E21B36938AA79F0D03087338ADEA2DA7331F9B525ED8AD45E1A1C19935F424
+  InstallerSha256: 18422547D43DE90947837C8827A970826985D6DEEAECC77AB9B90AED582F69D1
   UpgradeBehavior: install
-  ProductCode: '{40650AAF-23EE-37E3-9447-F90E3D0F9B1D}'
+  ProductCode: '{7EA115C1-45E8-3CA8-AE2E-F25188F10491}'
 ManifestType: installer
 ManifestVersion: 1.0.0
