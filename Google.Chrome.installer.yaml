@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
 
 PackageIdentifier: Google.Chrome
-PackageVersion: 122.0.6261.112
+PackageVersion: 122.0.6261.129
 Platform:
 - Windows.Desktop
 MinimumOSVersion: 10.0.0.0
