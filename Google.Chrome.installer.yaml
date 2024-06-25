@@ -24,7 +24,7 @@ Installers:
   Architecture: x64
   InstallerType: msi
   Scope: machine
-  InstallerUrl: https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
+  InstallerUrl: https://dl.google.com/dl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
   InstallerSha256: 596624F3E62C1C2DAC50E7FE68ADE2246606897FF2757EF9F7FD38FC8B34BF87
   UpgradeBehavior: install
   ProductCode: '{A6A8A820-1396-378F-ABE5-4EBDEA19FE69}'
