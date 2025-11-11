@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.0.0.schema.json
 
 PackageIdentifier: Google.Chrome
-PackageVersion: 142.0.7444.135
+PackageVersion: 142.0.7444.163
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
