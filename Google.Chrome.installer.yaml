@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
 
 PackageIdentifier: Google.Chrome
-PackageVersion: 151.0.7922.138
+PackageVersion: 151.0.7922.170
 Platform:
 - Windows.Desktop
 MinimumOSVersion: 10.0.0.0
@@ -25,8 +25,8 @@ Installers:
   InstallerType: msi
   Scope: machine
   InstallerUrl: https://dl.google.com/dl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
-  InstallerSha256: 50CF520D82C44077B0EB4A08237E240260EF75542733B4FA59EA69B9146F788D
+  InstallerSha256: 693E6EFEFEC1D8D776EB221804BFAFB8F86289210D687C7024BDB89EF7034D40
   UpgradeBehavior: install
-  ProductCode: '{87A09251-FFBC-3D08-92EE-0EE8B728CFC6}'
+  ProductCode: '{8F334D58-3F69-3BBC-BCF9-517ED38C12E8}'
 ManifestType: installer
 ManifestVersion: 1.0.0
